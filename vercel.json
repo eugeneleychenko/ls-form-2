@@ -1,1 +1,6 @@
-{"buildCommand":"cd leosource-form/eugene/insurance-form && npm install && npm run build","outputDirectory":"leosource-form/eugene/insurance-form/.next","installCommand":"cd leosource-form/eugene/insurance-form && npm install","framework":"nextjs"}
+{
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "framework": "nextjs"
+}
